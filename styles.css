@@ -36,7 +36,7 @@ body {
    align-items: flex-start;
    gap: 1.5rem;
 
-   animation: fadding 3s ease-in forwards;
+   animation: fading 3s ease-in forwards;
 
 }
 
@@ -107,7 +107,7 @@ body {
    }
 }
 
-@keyframes fadding {
+@keyframes fading {
    0% {
       opacity: 0;
    }
